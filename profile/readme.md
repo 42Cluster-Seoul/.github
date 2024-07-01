@@ -2,8 +2,8 @@
 여러 서비스 어플리케이션에 리소스, 자동배포, 모니터링을 제공 및 관리하는 EKS기반 Cluster
 
 42seoul은 1000명가량의 개발자 및 지망생이 상주하는 교육기관이자 개발커뮤니티이다. 이곳에선 교육생들이 편의를 위해 수많은 서비스 어플리케이션이 만들어지지만 인프라 환경이 여의치 않아 영속적이지 않다.
-이런 어플리케이션들들이 계속 동작할 수 있도록 인프라 환경을 고민하였고, AWS Cloud 환경에서 Orchestration이 가능한 EKS와 지속적인 배포를 할수 있도록 Argocd를 도입하고, 
-보다 효율적인 관리를 위해 Prometheus 및 Grafana를 도입하여 Observability를 구축하였다. 추가로 여러 이해관계를 갖는 서비스들의 리소스, 정보 등을 격리하기 위해 인증인가 정책을 적용하였다.
+이런 어플리케이션들이 계속 동작할 수 있도록 인프라 환경을 고민하였는데, AWS Cloud 환경에서 Orchestration이 가능한 EKS와 지속적인 배포를 할수 있도록 Argocd를 도입하고, 
+보다 효율적인 관리를 위해 Prometheus 및 Grafana를 도입하여 Observability를 구축하였다. 추가로 여러 이해관계를 갖는 서비스들의 리소스, 정보 등을 격리하기 위해 인증인가 정책을 적용하여 안정적이고 영속적인 인프라환경을 제공한다.
 
 
 ## Member 🧑‍💻
@@ -28,13 +28,16 @@
 ![amazoncloudwatch](https://img.shields.io/badge/CLOWDWATCH-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 
-# Cluster Architecture
+# Architecture
+- 아래는 42Cluster의 4가지 핵심 구조이다.
+
+## Cluster Architecture
 
 
-# AuthN, AuthZ
+## AuthN, AuthZ
 
 
-# Continuous deployment
+## Continuous deployment
 
 
-# Observability
+## Observability
