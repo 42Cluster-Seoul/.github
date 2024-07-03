@@ -12,7 +12,7 @@
 |[@SeungWoonSong](https://github.com/SeungWoonSong) <br>Project Manager|[@luckylooky2](https://github.com/luckylooky2) <br> Prometheus & Grafana|[@refigo](https://github.com/refigo) <br> Dockerizing|[@Han-Joon-Hyeok](https://github.com/Han-Joon-Hyeok) <br> Argocd & Helm|[@seongtaekkim](https://github.com/seongtaekkim) <br> Architecture, PL|
 
 
-# skill
+## skill
 ### ✔️ Cloud, ✔️ Cluster, ✔️ Auth
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![amazoneks](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
@@ -26,6 +26,12 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![amazoncloudwatch](https://img.shields.io/badge/CLOWDWATCH-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+
+## Certificate
+[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/75f22f09-5dde-46f9-9d11-5cfe11a99394/linked_in_profile)<br>
+[CKS: Certified Kubernetes Security Specialist](https://www.credly.com/badges/60d5635b-19dc-4299-b218-5aa7a5ac8a02)
+
 
 
 # Architecture
