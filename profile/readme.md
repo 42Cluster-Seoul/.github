@@ -9,7 +9,7 @@
 ## Member 🧑‍💻
 |<img src="https://avatars.githubusercontent.com/u/38645951?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/85822311?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/64242999?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/54902347?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/47941251?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|[@SeungWoonSong](https://github.com/SeungWoonSong)|[@luckylooky2](https://github.com/luckylooky2)|[@refigo](https://github.com/refigo)|[@Han-Joon-Hyeok](https://github.com/Han-Joon-Hyeok)|[@seongtaekkim](https://github.com/seongtaekkim)|
+|[@SeungWoonSong](https://github.com/SeungWoonSong) <br>Project Manager|[@luckylooky2](https://github.com/luckylooky2) <br> Prometheus & Grafana|[@refigo](https://github.com/refigo) <br> Dockerizing|[@Han-Joon-Hyeok](https://github.com/Han-Joon-Hyeok) <br> Argocd & Helm|[@seongtaekkim](https://github.com/seongtaekkim) <br> Architecture, PL|
 
 
 # skill
